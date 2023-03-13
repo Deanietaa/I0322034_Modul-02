@@ -1,0 +1,7 @@
+print("Nama : Deanieta Adilest")
+print("NIM : I0322034")
+print()
+print("Deskripsi kampung halaman :")
+print(" Saya lahir di Kota Solo, dan saat ini saya tinggal di Sukoharjo. Sejak kecil saya dibesarkan di Desa Trangsan Kecamatan Gatak Kabupaten Sukoharjo atau lebih dikenal dengan daerah Gawok. Gawok merupakan nama stasiun yg ada di kecamatan ini, jaraknya kurang dari satu kilometer dari tempat tinggal saya. Rumah saya begitu dekat dengan sungai, saat kecil saya selalu bermain di pinggiran sana. Saya sangat senang tumbuh besar di desa ini, saya punya banyak teman dan kenangan-kenangan masa kecil yang indah dan tidak bisa dilupakan. Saya bahkan tidak bisa membayangkan jika suatu saat nanti harus meninggalkan tempat ini, terlalu banyak memori disini.")
+print("Harapan :")
+print(" Setelah saya lulus menjadi sarjana teknik industri nanti, saya ingin memiliki skill di bidang ini, menjadi lulusan terbaik, bekerja di perusahaan BUMN dan membahagiakan kedua orang tua saya.")
